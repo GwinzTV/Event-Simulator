@@ -10,7 +10,7 @@ Welcome to the Event Probability Simulator! This application allows you to simul
 
 - [Features](#features)
 - [Functionality](#functionality)
-- [Getting Started](#gettingStarted)
+- [Getting Started](#gettingstarted)
 - [Executing program](#execute)
 - [Author](#author)
 
@@ -27,7 +27,7 @@ Welcome to the Event Probability Simulator! This application allows you to simul
 - Bayes' Theorem
 - Trial simulation
 
-## Getting Started <a name = "gettingStarted"></a>
+## Getting Started <a name = "gettingstarted"></a>
 
 1. **Installation**:
    ```bash
