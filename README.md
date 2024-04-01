@@ -1,8 +1,8 @@
 # Event Probability Simulator 🎲
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/your-repo/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/your-repo)](https://github.com/yourusername/your-repo/issues)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo)](https://github.com/yourusername/your-repo/stargazers)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/GwinzTV/Event-Simulator/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/yourusername/your-repo)](https://github.com/GwinzTV/Event-Simulator/issues)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo)](https://github.com/GwinzTV/Event-Simulator/stargazers)
 
 Welcome to the Event Probability Simulator! This application allows you to simulate various events and calculate their probabilities using different probability models.
 
@@ -18,6 +18,5 @@ Welcome to the Event Probability Simulator! This application allows you to simul
 
 1. **Installation**:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
-   pip install -r requirements.txt
+   git clone https://github.com/GwinzTV/Event-Simulator.git
+   cd Event-Simulator
