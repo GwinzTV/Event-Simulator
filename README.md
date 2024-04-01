@@ -9,9 +9,8 @@ Welcome to the Event Probability Simulator! This application allows you to simul
 ## Features
 
 - **Intuitive Interface**: User-friendly interface for easy interaction.
-- **Multiple Probability Models**: Choose from different probability models such as coin toss, dice roll, card draw, and more.
+- **Multiple Probability simulations**: Choose from different probability simuations such as Permutations, Combinations, Bayes' Theorem, Number of Trials Simulation, and more.
 - **Customizable Parameters**: Adjust parameters like the number of trials, event outcomes, and success criteria.
-- **Export Results**: Export simulation results in various formats for further analysis.
 
 ## Getting Started
 
