@@ -6,18 +6,34 @@
 
 Welcome to the Event Probability Simulator! This application allows you to simulate various events and calculate their probabilities using different probability models.
 
-## Features
+## Table of Contents
+
+- [Features](#features)
+- [Functionality](#functionality)
+- [Getting Started](#gettingStarted)
+- [Executing program](#execute)
+- [Author](#author)
+
+## Features <a name = "features"></a>
 
 - **Intuitive Interface**: User-friendly interface for easy interaction.
-- **Multiple Probability simulations**: Choose from different probability simuations such as Permutations, Combinations, Bayes' Theorem, Number of Trials Simulation, and more.
+- **Multiple Probability simulations**: Choose from a range of different probability simulations.
 - **Customizable Parameters**: Adjust parameters like the number of trials, event outcomes, and success criteria.
 
-## Getting Started
+## Functionality <a name = "functionality"></a>
+
+- Permutations
+- Combinations
+- Bayes' Theorem
+- Trial simulation
+
+## Getting Started <a name = "gettingStarted"></a>
 
 1. **Installation**:
    ```bash
    git clone https://github.com/GwinzTV/Event-Simulator.git
    cd Event-Simulator
+   pip install -r requirements.txt
 
 ## Executing program <a name = "execute"></a>
 
