@@ -18,3 +18,13 @@ Welcome to the Event Probability Simulator! This application allows you to simul
    ```bash
    git clone https://github.com/GwinzTV/Event-Simulator.git
    cd Event-Simulator
+
+## Executing program <a name = "execute"></a>
+
+Download the file to your preferred directory, open the command line or terminal, then type in python, or python3 depending on your Python installation, after this type in the  path to file event_probability_simulator.py and then hit Enter.
+
+
+## Author <a name = "author"></a>
+Contributors names and contact info
+
+Joshua Iyinkanmi - https://github.com/GwinzTV
